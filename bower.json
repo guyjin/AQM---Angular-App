@@ -1,0 +1,10 @@
+{
+  "name": "mothermayi",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "latest",
+    "jquery": "~1.11.0",
+    "bootstrap": "latest",
+    "angular-route": "latest"
+  }
+}
